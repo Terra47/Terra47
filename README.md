@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou o Terra
+# 🌍 Olá, eu sou o Terra
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Estudante+de+programação;Futuro+Engenheiro+de+Software;Aprendizado+contínuo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=Explorador+de+códigos;Construtor+de+backends;Aprendiz+perpétuo" alt="Typing SVG" />
 </div>
 
 ```python
@@ -12,7 +12,6 @@ class Terra:
         self.education = "Ensino Médio → Engenharia de Software"
         self.current_focus = "Backend Development"
         self.motto = "Não podemos resolver os problemas usando o mesmo pensamento que usamos quando os criamos."
-        
     def introduce(self):
         return f"Olá! Eu sou {self.nickname}, estudante e futuro engenheiro de software."
 ```
@@ -21,22 +20,26 @@ class Terra:
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=2D2D2D&labelColor=00FFFF)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=2D2D2D&labelColor=00FFFF)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=2D2D2D&labelColor=00FFFF)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=2D2D2D&labelColor=00FFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=2D2D2D&labelColor=00FFFF)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&color=2D2D2D&labelColor=00FFFF)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=2D2D2D&labelColor=00FFFF)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=2D2D2D&labelColor=00FFFF)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=2D2D2D&labelColor=00FFFF)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&color=2D2D2D&labelColor=00FFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B4513?style=for-the-badge&logo=javascript&logoColor=white&labelColor=CD853F)
+![HTML5](https://img.shields.io/badge/HTML5-8B4513?style=for-the-badge&logo=html5&logoColor=white&labelColor=CD853F)
+![CSS3](https://img.shields.io/badge/CSS3-8B4513?style=for-the-badge&logo=css3&logoColor=white&labelColor=CD853F)
+![Python](https://img.shields.io/badge/Python-8B4513?style=for-the-badge&logo=python&logoColor=white&labelColor=CD853F)
+![VS Code](https://img.shields.io/badge/VS_Code-8B4513?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=CD853F)
+![PyCharm](https://img.shields.io/badge/PyCharm-8B4513?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=CD853F)
+![Git](https://img.shields.io/badge/Git-8B4513?style=for-the-badge&logo=git&logoColor=white&labelColor=CD853F)
+![C#](https://img.shields.io/badge/C%23-8B4513?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=CD853F)
+![Java](https://img.shields.io/badge/Java-8B4513?style=for-the-badge&logo=java&logoColor=white&labelColor=CD853F)
+![MySQL](https://img.shields.io/badge/MySQL-8B4513?style=for-the-badge&logo=mysql&logoColor=white&labelColor=CD853F)
 
 </div>
 
 ## Estatísticas do GitHub
 
-<div align="center"> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Terra47&theme=midnight-purple&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF" /> </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Terra47&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&bg_color=2d2d2d&title_color=cd853f&icon_color=8b4513&text_color=ebdbb2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terra47&layout=compact&langs_count=8&theme=gruvbox&hide_border=true&bg_color=2d2d2d&title_color=cd853f&text_color=ebdbb2"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Terra47&theme=gruvbox&hide_border=true&background=2d2d2d&stroke=8b4513&ring=cd853f&fire=cd853f&currStreakNum=ebdbb2&sideNums=ebdbb2&currStreakLabel=cd853f&sideLabels=cd853f&dates=ebdbb2" />
+</div>
 
 ## Informações adicionais
 
@@ -81,9 +84,9 @@ const linguagens = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=2D2D2D&labelColor=00FFFF)](https://www.linkedin.com/in/miguelnunesagne/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=2D2D2D&labelColor=00FFFF)](https://discord.com/users/0.997)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=2D2D2D&labelColor=00FFFF)](https://github.com/Terra47)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B4513?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=CD853F)](https://www.linkedin.com/in/miguelnunesagne/)
+[![Discord](https://img.shields.io/badge/Discord-8B4513?style=for-the-badge&logo=discord&logoColor=white&labelColor=CD853F)](https://discord.com/users/0.997)
+[![GitHub](https://img.shields.io/badge/GitHub-8B4513?style=for-the-badge&logo=github&logoColor=white&labelColor=CD853F)](https://github.com/Terra47)
 
 **Discord:** `0.997`
 
@@ -94,3 +97,4 @@ const linguagens = {
 <div align="center">
   <sub>⭐ Se você gostou, deixe uma estrela nos repositórios! ⭐</sub>
 </div>
+```
