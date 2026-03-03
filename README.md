@@ -1,7 +1,7 @@
-# 🌍 Terra
+# 🌍 Saudações Terráqueos
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=32&duration=4000&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=Explorador+de+códigos;Construtor+de+backends;Filho+da+terra;Aprendiz+perpétuo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=32&duration=4000&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=Gamer+e+Programador;Eterno+Aprendiz;Filho+da+terra;Futuro+Engenheiro+de+Software" alt="Typing SVG" />
 </div>
 
 <br>
@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/ensino-médio-8B4513?style=for-the-badge&labelColor=CD853F" />
   <img src="https://img.shields.io/badge/futuro-engenharia de software-8B4513?style=for-the-badge&labelColor=CD853F" />
   <img src="https://img.shields.io/badge/brasileiro-8B4513?style=for-the-badge&labelColor=CD853F" />
-  <img src="https://img.shields.io/badge/gamer-8B4513?style=for-the-badge&labelColor=CD853F" />
 </p>
 
 ---
@@ -22,20 +21,21 @@
 # -*- coding: utf-8 -*-
 
 class Terra:
-    """Como a terra: firme, fértil e em constante transformação."""
+    "Como a terra: firme, fértil e em constante transformação."
     
     def __init__(self):
         self.nome_registro = "Miguel Nunes Agne"
         self.nome_guerra = "Terra"
         self.geracao = "Ensino Médio → Engenharia de Software"
         self.bioma = "Backend Development"
-        self.energia = "Café e código 🍵"
-        self.mantra = "Não podemos resolver os problemas usando o mesmo pensamento que usamos quando os criamos."
+        self.energia = "Música e código"
+        self.mantra = ""
         
         self.ferramentas = {
-            "dominadas": ["Python", "JavaScript", "HTML5", "CSS3"],
-            "aprendendo": ["C#", "Java", "MySQL"],
-            "desejos": ["TypeScript", "C++", "Rust", "Go", "Node.js"]
+            "dominadas": ["Null"],
+            "experiencia": ["Python", "JavaScript", "HTML5", "CSS3"],
+            "aprendendo": ["Lógica", "C#"],
+            "desejos": ["Java", "PHP", "C++", "MySql", "Node.js"]
         }
         
         self.projetos = {
@@ -44,11 +44,11 @@ class Terra:
             "Servidor Local": "planejamento"
         }
         
-        self.hobbies = ["Videogames 🎮", "Música 🎧", "Café ☕", "Aprender coisas novas"]
-        self.estilo = "Backend > Frontend (não sei deixar bonitinho 😅)"
+        self.hobbies = ["Videogames", "Música", "Aprender coisas novas"]
+        self.estilo = "Backend > Frontend (não sei deixar bonitinho)"
     
     def apresentar(self):
-        return f"Olá, sou {self.nome_guerra}. Construo coisas que duram."
+        return f"Olá, sou {self.nome_guerra}. Construo coisas que duram, ou nem tanto."
     
     def status_atual(self):
         return "Semeando código, colhendo conhecimento."
@@ -66,21 +66,15 @@ print(f"Status: {terra.status_atual()}")
 
 | Categoria | Tecnologias |
 |:---------:|:-----------:|
-| **Domínio** | ![Python](https://img.shields.io/badge/Python-8B4513?style=for-the-badge&logo=python&logoColor=white&labelColor=CD853F) ![JavaScript](https://img.shields.io/badge/JavaScript-8B4513?style=for-the-badge&logo=javascript&logoColor=white&labelColor=CD853F) ![HTML5](https://img.shields.io/badge/HTML5-8B4513?style=for-the-badge&logo=html5&logoColor=white&labelColor=CD853F) ![CSS3](https://img.shields.io/badge/CSS3-8B4513?style=for-the-badge&logo=css3&logoColor=white&labelColor=CD853F) |
-| **Escavação** | ![VS Code](https://img.shields.io/badge/VS_Code-8B4513?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=CD853F) ![PyCharm](https://img.shields.io/badge/PyCharm-8B4513?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=CD853F) ![Git](https://img.shields.io/badge/Git-8B4513?style=for-the-badge&logo=git&logoColor=white&labelColor=CD853F) |
-| **Em germinação** | ![C#](https://img.shields.io/badge/C%23-8B4513?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=CD853F) ![Java](https://img.shields.io/badge/Java-8B4513?style=for-the-badge&logo=java&logoColor=white&labelColor=CD853F) ![MySQL](https://img.shields.io/badge/MySQL-8B4513?style=for-the-badge&logo=mysql&logoColor=white&labelColor=CD853F) |
-| **No radar** | ![TypeScript](https://img.shields.io/badge/TypeScript-8B4513?style=for-the-badge&logo=typescript&logoColor=white&labelColor=CD853F) ![C++](https://img.shields.io/badge/C++-8B4513?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=CD853F) ![Rust](https://img.shields.io/badge/Rust-8B4513?style=for-the-badge&logo=rust&logoColor=white&labelColor=CD853F) ![Go](https://img.shields.io/badge/Go-8B4513?style=for-the-badge&logo=go&logoColor=white&labelColor=CD853F) |
+| **Experiência** | ![Python](https://img.shields.io/badge/Python-8B4513?style=for-the-badge&logo=python&logoColor=white&labelColor=CD853F) ![JavaScript](https://img.shields.io/badge/JavaScript-8B4513?style=for-the-badge&logo=javascript&logoColor=white&labelColor=CD853F) ![HTML5](https://img.shields.io/badge/HTML5-8B4513?style=for-the-badge&logo=html5&logoColor=white&labelColor=CD853F) ![CSS3](https://img.shields.io/badge/CSS3-8B4513?style=for-the-badge&logo=css3&logoColor=white&labelColor=CD853F) |
+| **Aprendendo** | ![Lógica](https://img.shields.io/badge/Lógica-8B4513?style=for-the-badge&labelColor=CD853F) ![C#](https://img.shields.io/badge/C%23-8B4513?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=CD853F) |
+| **Desejos** | ![Java](https://img.shields.io/badge/Java-8B4513?style=for-the-badge&logo=java&logoColor=white&labelColor=CD853F) ![PHP](https://img.shields.io/badge/PHP-8B4513?style=for-the-badge&logo=php&logoColor=white&labelColor=CD853F) ![C++](https://img.shields.io/badge/C++-8B4513?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=CD853F) ![MySQL](https://img.shields.io/badge/MySQL-8B4513?style=for-the-badge&logo=mysql&logoColor=white&labelColor=CD853F) ![Node.js](https://img.shields.io/badge/Node.js-8B4513?style=for-the-badge&logo=node.js&logoColor=white&labelColor=CD853F) |
 
 </div>
 
 ---
 
 ## 📊 Camadas do solo
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Terra47&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&bg_color=2d2d2d&title_color=cd853f&icon_color=8b4513&text_color=ebdbb2" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terra47&layout=compact&langs_count=8&theme=gruvbox&hide_border=true&bg_color=2d2d2d&title_color=cd853f&text_color=ebdbb2" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Terra47&theme=gruvbox&hide_border=true&background=2d2d2d&stroke=8b4513&ring=cd853f&fire=cd853f&currStreakNum=ebdbb2&sideNums=ebdbb2&currStreakLabel=cd853f&sideLabels=cd853f&dates=ebdbb2" />
@@ -123,35 +117,23 @@ camadas_terrestres:
 ```javascript
 const projetos = [
   {
-    nome: "🏗️ Engineering Tools Pro",
+    nome: "Engineering Tools Pro",
     descrição: "Plataforma com calculadora científica, biblioteca de fórmulas e catálogo de pontes",
-    status: "🌱 Em crescimento",
+    status: "Em crescimento",
     repo: "https://github.com/Terra47/Engineering-Tools-Pro",
     tecnologias: ["HTML", "CSS", "JavaScript", "MathJax"]
   },
   {
-    nome: "🔬 Mostra Científica",
+    nome: "Mostra Científica",
     descrição: "Site interativo para evento escolar",
-    status: "🌱 Germinando",
+    status: "Germinando",
     tecnologias: ["Em definição"]
   },
   {
-    nome: "🏡 Servidor Local",
+    nome: "Servidor Local",
     descrição: "Infraestrutura caseira para projetos e serviços",
-    status: "🌱 Planejamento",
+    status: "Planejamento",
     tecnologias: ["Linux", "Docker", "Node.js"]
-  },
-  {
-    nome: "🎨 Paint Pro",
-    descrição: "Ferramenta de desenho inspirada no Paint/Gartic",
-    status: "✅ Concluído",
-    tecnologias: ["HTML5 Canvas", "JavaScript"]
-  },
-  {
-    nome: "📚 Wiki das Pontes",
-    descrição: "Guia educativo sobre pontes",
-    status: "✅ Concluído",
-    tecnologias: ["HTML", "CSS", "Markdown"]
   }
 ];
 
@@ -166,9 +148,6 @@ projetos.forEach(p => console.log(`${p.nome}: ${p.descrição} - ${p.status}`));
 
 ```markdown
 [✅] Primeiro projeto completo publicado
-[✅] Paint Pro - ferramenta de desenho
-[✅] Wiki das Pontes - guia educativo
-[✅] Ranking de Teste de Cargas
 [ ] Aprender C# e Java
 [ ] Dominar MySQL
 [ ] Ingressar na faculdade de Engenharia de Software
@@ -190,39 +169,31 @@ projetos.forEach(p => console.log(`${p.nome}: ${p.descrição} - ${p.status}`));
 
 ```yaml
 ano_2024:
-  janeiro_março:
-    - "HTML5, CSS3: primeiros passos"
-    - "JavaScript: lógica e DOM"
-  abril_junho:
-    - "Python: automação e scripts"
-    - "Git: versionamento"
-  julho_setembro:
-    - "VS Code & PyCharm: domínio das ferramentas"
-    - "Primeiros projetos pessoais"
-  outubro_dezembro:
-    - "Engineering Tools Pro: início"
-    - "Backend: primeiros conceitos"
+  final_do_ano:
+    - "JavaScript: primeiros contatos com lógica e programação"
+    - "Descobrindo o mundo do código"
 
 ano_2025:
-  janeiro_fevereiro:
-    - "Paint Pro: concluído"
-    - "Wiki das Pontes: concluído"
-    - "Ranking de Teste de Cargas: concluído"
-  março_maio:
-    - "C# e Java: fundamentos"
-    - "MySQL: banco de dados"
-  junho_setembro:
-    - "Mostra científica: desenvolvimento"
-    - "Aprofundamento em backend"
-  outubro_dezembro:
-    - "Engineering Tools Pro: versão 2.0"
-    - "Servidor local: primeiros testes"
+  início_do_ano:
+    - "HTML5 e CSS3: estrutura e estilização de páginas"
+    - "Primeiros projetinhos básicos"
+  meio_do_ano:
+    - "Python: scripts e automação"
+    - "Git: primeiros passos com versionamento"
+    - "VS Code & PyCharm: conhecendo as ferramentas"
+  final_do_ano:
+    - "Interpretação de código e lógica de programação"
+    - "Primeiros conceitos de backend"
+    - "Engineering Tools Pro: início do primeiro projeto"
 
 ano_2026:
-  planejado:
-    - "Faculdade: início"
-    - "Primeiro estágio"
-    - "Projeto open source"
+  março:
+    - "Paint Pro: ferramenta de desenho"
+    - "Wiki das Pontes: guia educativo"
+    - "Ranking de Teste de Cargas: sistema interativo"
+    - "Novo projeto: em desenvolvimento"
+    - "Lógica de programação: aprofundando"
+    - "C#: começando os estudos"
 ```
 
 </details>
@@ -234,9 +205,9 @@ ano_2026:
 ```python
 class Rotina:
     def __init__(self):
-        self.manha = "Café + código ☕"
-        self.tarde = "Estudos + projetos 📚"
-        self.noite = "Videogame + música 🎮"
+        self.manha = "Café + música"
+        self.tarde = "Estudos + projetos"
+        self.noite = "Videogame + música"
         self.fim_de_semana = "Codar, jogar, aprender algo novo"
     
     def equilibrio(self):
@@ -257,11 +228,11 @@ print(f"Noite: {vida.noite}")
 
 | Métrica | Valor |
 |:-------:|:-----:|
-| 🕒 Horas de código (estimada) | 500+ |
-| 📦 Projetos iniciados | 8 |
-| ✅ Projetos concluídos | 3 |
+| 🕒 Horas de código (estimada) | 30+ |
+| 📦 Projetos iniciados | 4 |
+| ✅ Projetos concluídos | 2 |
 | 🔄 Commits | Aumentando todo dia |
-| ☕ Café consumido | Sim. Muito. |
+| ☕ Música escutada | +100h |
 
 </div>
 
@@ -271,17 +242,17 @@ print(f"Noite: {vida.noite}")
 
 <div align="center">
 
-> *"Não podemos resolver os problemas usando o mesmo pensamento que usamos quando os criamos."*  
+> *"A tecnologia é um servo útil, mas um mestre perigoso"*  
+> — Christian Louis Lange
+
+> *"O verdadeiro problema não é se as máquinas pensam, mas se os humanos o fazem."*  
+> — B. F. Skinner
+
+> *"Temos máquinas que fazem mais trabalho do que o homem, mas temos menos homens que fazem mais sentido do que as máquinas"*  
 > — Albert Einstein
 
-> *"Backend é onde a mágica acontece. Frontend é onde ela aparece."*  
-> — Terra
-
-> *"Cada linha de código é uma semente. Algumas viram árvores, outras viram florestas."*  
-> — Terra
-
-> *"O importante não é ser o melhor, é ser melhor do que ontem."*  
-> — Anônimo
+> *"A tecnologia por si só não é suficiente, é a tecnologia casada com artes liberais e as humanidades que nos dá resultados que fazem nosso coração cantar."*  
+> — Steve Jobs
 
 </div>
 
@@ -294,32 +265,19 @@ print(f"Noite: {vida.noite}")
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B4513?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=CD853F)](https://www.linkedin.com/in/miguelnunesagne/)
 [![Discord](https://img.shields.io/badge/Discord-8B4513?style=for-the-badge&logo=discord&logoColor=white&labelColor=CD853F)](https://discord.com/users/0.997)
 [![GitHub](https://img.shields.io/badge/GitHub-8B4513?style=for-the-badge&logo=github&logoColor=white&labelColor=CD853F)](https://github.com/Terra47)
-[![Gmail](https://img.shields.io/badge/Gmail-8B4513?style=for-the-badge&logo=gmail&logoColor=white&labelColor=CD853F)](mailto:miguelnunesagne@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-8B4513?style=for-the-badge&logo=gmail&logoColor=white&labelColor=CD853F)](mailto:null)
 
 ```yaml
 coordenadas:
   discord: "0.997"
   linkedin: "/in/miguelnunesagne/"
   github: "/Terra47"
-  email: "miguelnunesagne@gmail.com"
+  email: "null"
   localização: "Brasil 🌎"
   fuso: "UTC-3"
   disponibilidade: "Para colaborações e projetos"
 ```
 
-</div>
-
----
-
-## 📌 Repositórios em destaque
-
-<div align="center">
-  <a href="https://github.com/Terra47/Engineering-Tools-Pro">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Terra47&repo=Engineering-Tools-Pro&theme=gruvbox&bg_color=2d2d2d&title_color=cd853f&icon_color=8b4513&text_color=ebdbb2&hide_border=true" />
-  </a>
-  <a href="https://github.com/Terra47/Terra47">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Terra47&repo=Terra47&theme=gruvbox&bg_color=2d2d2d&title_color=cd853f&icon_color=8b4513&text_color=ebdbb2&hide_border=true" />
-  </a>
 </div>
 
 ---
@@ -332,9 +290,9 @@ coordenadas:
 [![YouTube Music](https://img.shields.io/badge/YouTube_Music-8B4513?style=for-the-badge&logo=youtube-music&logoColor=white&labelColor=CD853F)](https://music.youtube.com)
 
 ```text
-🎧 Playlist preferida: Lo-fi para codar
-🎮 OST favorita: The Last of Us, Hollow Knight
-🎸 Banda preferida: Qualquer uma com guitarra
+🎧 Albúm preferido: Xtranho e 333
+🎮 OST favorita: C418 (Minecraft) e RDR2
+🎸 Artista preferido: Matuê
 ```
 
 </div>
@@ -345,6 +303,12 @@ coordenadas:
   <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
   <br><br>
+  
+  *“Não podemos resolver um problema usando o mesmo tipo de pensamento que usamos quando os criamos.”*
+  
+  — Albert Einstein
+  <br><br>
+</div>
   
 ```c
 while (1) {
