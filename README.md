@@ -299,152 +299,24 @@ coordenadas:
 
 ---
 
-<div class="frase-terra">
-  <span class="aspas esquerda">"</span>
-  <p>Não podemos resolver um problema usando o mesmo tipo de pensamento que usamos quando os criamos.</p>
-  <div class="autor">— Albert Einstein</div>
-  <span class="aspas direita">"</span>
+<div align="center">
+  <br>
+  
+  <img src="https://img.shields.io/badge/🜁-8B4513?style=flat-square&labelColor=CD853F" width="0" />
+  
+  <p>
+    <samp>
+      <i>“Não podemos resolver um problema usando o mesmo<br>
+      tipo de pensamento que usamos quando os criamos.”</i>
+      <br>
+      <b>— Albert Einstein</b>
+    </samp>
+  </p>
+  
+  <img src="https://img.shields.io/badge/🜃-8B4513?style=flat-square&labelColor=CD853F" width="0" />
+  
+  <br>
 </div>
-
-.frase-terra {
-  background: linear-gradient(145deg, #2d1f0c 0%, #4a3720 100%);
-  padding: 40px 30px;
-  border-radius: 30px 10px 30px 10px;
-  position: relative;
-  max-width: 700px;
-  margin: 30px auto;
-  border-left: 8px solid #a67c4e;
-  border-bottom: 8px solid #6b4f2e;
-  box-shadow: 
-    20px 20px 30px rgba(0,0,0,0.6),
-    inset 2px 2px 10px rgba(255,215,140,0.3),
-    inset -3px -3px 8px rgba(0,0,0,0.5);
-  font-family: 'Georgia', 'Times New Roman', serif;
-  transform: rotate(-0.5deg);
-  transition: all 0.3s ease;
-}
-
-.frase-terra:hover {
-  transform: rotate(0deg) scale(1.01);
-  box-shadow: 25px 25px 40px rgba(0,0,0,0.7);
-}
-
-.frase-terra::before {
-  content: "🌿";
-  font-size: 40px;
-  position: absolute;
-  top: -20px;
-  left: -15px;
-  background: #8b6b43;
-  width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 3px solid #d4a76a;
-  box-shadow: 0 5px 10px rgba(0,0,0,0.5);
-  transform: rotate(-10deg);
-}
-
-.frase-terra::after {
-  content: "🪨";
-  font-size: 35px;
-  position: absolute;
-  bottom: -15px;
-  right: -15px;
-  background: #7a5c3a;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 3px solid #c49a6c;
-  box-shadow: 0 5px 10px rgba(0,0,0,0.5);
-  transform: rotate(15deg);
-}
-
-.frase-terra p {
-  color: #f5e1c0;
-  font-size: 24px;
-  font-style: italic;
-  text-align: center;
-  margin: 10px 0;
-  text-shadow: 
-    3px 3px 0 #3a2c1a,
-    1px 1px 2px rgba(0,0,0,0.8);
-  letter-spacing: 0.5px;
-  line-height: 1.5;
-  word-break: keep-all;
-  padding: 0 15px;
-  position: relative;
-  z-index: 2;
-}
-
-.frase-terra .autor {
-  color: #eace9f;
-  font-size: 20px;
-  text-align: right;
-  margin-top: 20px;
-  padding-right: 25px;
-  font-weight: bold;
-  text-shadow: 2px 2px 0 #2d1f0c;
-  border-top: 2px dashed #a9875a;
-  padding-top: 15px;
-  letter-spacing: 1px;
-}
-
-.frase-terra .aspas {
-  color: #cfa668;
-  font-size: 60px;
-  font-family: 'Georgia', serif;
-  line-height: 0.5;
-  opacity: 0.6;
-  position: absolute;
-  user-select: none;
-}
-
-.frase-terra .aspas.esquerda {
-  top: 10px;
-  left: 15px;
-}
-
-.frase-terra .aspas.direita {
-  bottom: -10px;
-  right: 15px;
-  transform: rotate(180deg);
-}
-
-/* Opção mais simples */
-.frase-terra-simples {
-  background: #523d28;
-  padding: 35px 25px;
-  border-radius: 20px;
-  border-left: 12px solid #a67b4b;
-  border-right: 3px solid #7a5c3a;
-  box-shadow: 15px 15px 25px rgba(0,0,0,0.6);
-  max-width: 650px;
-  margin: 25px auto;
-  background-image: radial-gradient(circle at 20% 30%, #6e543a 2px, transparent 2px), 
-                    radial-gradient(circle at 80% 70%, #6e543a 3px, transparent 3px);
-  background-size: 40px 40px;
-}
-
-.frase-terra-simples p {
-  color: #f0ddc0;
-  font-size: 26px;
-  text-align: center;
-  font-style: italic;
-  text-shadow: 3px 3px 0 #332719;
-}
-
-.frase-terra-simples .autor {
-  color: #dbbc87;
-  font-size: 20px;
-  text-align: center;
-  margin-top: 20px;
-}
   
 ```c
 while (1) {
