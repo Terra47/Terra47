@@ -294,58 +294,45 @@ coordenadas:
 🎮 OST favorita: C418 (Minecraft) e RDR2
 🎸 Artista preferido: Matuê
 ```
+---
 
 <div align="center">
+  <br><br>
+  
+  <samp>
+    <span style="color: #3A2C1A; font-size: 48px; font-family: 'Georgia', 'Times New Roman', serif; font-style: italic;">
+      “Não podemos resolver um problema
+    </span>
+  </samp>
+  
   <br>
   
   <samp>
-    <b>
-      <span style="color: #8B4513; font-size: 24px;">⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤</span>
-    </b>
+    <span style="color: #3A2C1A; font-size: 48px; font-family: 'Georgia', 'Times New Roman', serif; font-style: italic;">
+      usando o mesmo tipo de pensamento
+    </span>
   </samp>
   
-  <br><br>
+  <br>
   
   <samp>
-    <span style="color: #8B4513; font-size: 28px;">🜁 🜂 🜃</span>
-  </samp>
-  
-  <br><br>
-  
-  <samp>
-    <i>
-      <span style="color: #8B4513; font-size: 22px;">
-        "Não podemos resolver um problema<br>
-        usando o mesmo tipo de pensamento<br>
-        que usamos quando os criamos."
-      </span>
-    </i>
-  </samp>
-  
-  <br><br>
-  
-  <samp>
-    <span style="color: #8B4513; font-size: 20px;">
-      — Albert Einstein
+    <span style="color: #3A2C1A; font-size: 48px; font-family: 'Georgia', 'Times New Roman', serif; font-style: italic;">
+      que usamos quando os criamos.”
     </span>
   </samp>
   
   <br><br>
   
   <samp>
-    <span style="color: #8B4513; font-size: 28px;">🜁 🜂 🜃</span>
+    <span style="color: #5A3E2B; font-size: 32px; font-family: 'Georgia', 'Times New Roman', serif;">
+      — Albert Einstein
+    </span>
   </samp>
   
   <br><br>
-  
-  <samp>
-    <b>
-      <span style="color: #8B4513; font-size: 24px;">⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤</span>
-    </b>
-  </samp>
-  
-  <br>
 </div>
+
+---
   
 ```c
 while (1) {
