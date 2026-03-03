@@ -295,25 +295,54 @@ coordenadas:
 🎸 Artista preferido: Matuê
 ```
 
-</div>
-
----
-
 <div align="center">
   <br>
   
-  <img src="https://img.shields.io/badge/🜁-8B4513?style=flat-square&labelColor=CD853F" width="0" />
+  <samp>
+    <b>
+      <span style="color: #8B4513; font-size: 24px;">⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤</span>
+    </b>
+  </samp>
   
-  <p>
-    <samp>
-      <i>“Não podemos resolver um problema usando o mesmo<br>
-      tipo de pensamento que usamos quando os criamos.”</i>
-      <br>
-      <b>— Albert Einstein</b>
-    </samp>
-  </p>
+  <br><br>
   
-  <img src="https://img.shields.io/badge/🜃-8B4513?style=flat-square&labelColor=CD853F" width="0" />
+  <samp>
+    <span style="color: #8B4513; font-size: 28px;">🜁 🜂 🜃</span>
+  </samp>
+  
+  <br><br>
+  
+  <samp>
+    <i>
+      <span style="color: #8B4513; font-size: 22px;">
+        "Não podemos resolver um problema<br>
+        usando o mesmo tipo de pensamento<br>
+        que usamos quando os criamos."
+      </span>
+    </i>
+  </samp>
+  
+  <br><br>
+  
+  <samp>
+    <span style="color: #8B4513; font-size: 20px;">
+      — Albert Einstein
+    </span>
+  </samp>
+  
+  <br><br>
+  
+  <samp>
+    <span style="color: #8B4513; font-size: 28px;">🜁 🜂 🜃</span>
+  </samp>
+  
+  <br><br>
+  
+  <samp>
+    <b>
+      <span style="color: #8B4513; font-size: 24px;">⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤</span>
+    </b>
+  </samp>
   
   <br>
 </div>
