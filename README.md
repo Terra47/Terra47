@@ -1,78 +1,68 @@
-# 🌍 Terra
+# Terra
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=32&duration=4000&pause=1000&color=8B4513&center=true&vCenter=true&width=600&lines=Explorador+de+códigos;Construtor+de+backends;Filho+da+terra;Aprendiz+perpétuo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=34&duration=4500&pause=1000&color=8B4513&center=true&vCenter=true&width=700&lines=O+chão+que+você+pisa;Backend+que+sustenta;Raízes+no+código;Frutos+no+futuro" alt="Typing SVG" />
 </div>
 
-<br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/idade-17-8B4513?style=for-the-badge&labelColor=CD853F" />
-  <img src="https://img.shields.io/badge/foco-Backend-8B4513?style=for-the-badge&labelColor=CD853F" />
-  <img src="https://img.shields.io/badge/ensino-médio-8B4513?style=for-the-badge&labelColor=CD853F" />
-  <img src="https://img.shields.io/badge/futuro-engenharia de software-8B4513?style=for-the-badge&labelColor=CD853F" />
+  <img src="https://img.shields.io/badge/17_anos-8B4513?style=flat-square&labelColor=CD853F" />
+  <img src="https://img.shields.io/badge/backend-8B4513?style=flat-square&labelColor=CD853F" />
+  <img src="https://img.shields.io/badge/ensino_médio-8B4513?style=flat-square&labelColor=CD853F" />
+  <img src="https://img.shields.io/badge/futuro_eng._software-8B4513?style=flat-square&labelColor=CD853F" />
 </p>
 
 ---
 
 ```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 class Terra:
-    """Como a terra: firme, fértil e em constante transformação."""
-    
     def __init__(self):
-        self.nome_registro = "Miguel Nunes Agne"
-        self.nome_guerra = "Terra"
-        self.geracao = "Ensino Médio → Engenharia de Software"
-        self.bioma = "Backend Development"
-        self.energia = "Café e código"
-        self.mantra = "Não podemos resolver os problemas usando o mesmo pensamento que usamos quando os criamos."
+        self.nome = "Miguel Nunes Agne"
+        self.apelido = "Terra"
+        self.idade = 17
+        self.agora = "Ensino Médio"
+        self.depois = "Engenharia de Software"
+        self.foco = "Backend"
+        self.lema = "\"Não podemos resolver os problemas usando o mesmo pensamento que usamos quando os criamos.\""
         
-        self.ferramentas = {
-            "dominadas": ["Python", "JavaScript", "HTML5", "CSS3"],
-            "aprendendo": ["C#", "Java", "MySQL"],
-            "desejos": ["TypeScript", "C++", "Rust", "Go"]
-        }
-        
-        self.projetos = {
-            "Engineering Tools Pro": "https://github.com/Terra47/Engineering-Tools-Pro",
-            "Mostra Científica": "em desenvolvimento",
-            "Servidor Local": "planejamento"
-        }
-    
-    def apresentar(self):
-        return f"Olá, sou {self.nome_guerra}. Construo coisas que duram."
-    
-    def status_atual(self):
-        return "Semeando código, colhendo conhecimento."
+    def quem_sou(self):
+        return f"Sou {self.apelido}. Construo coisas por trás dos sistemas."
 
-terra = Terra()
-print(terra.apresentar())
+eu = Terra()
+print(eu.quem_sou())
+print(eu.lema)
 ```
 
 ---
 
-## 🌱 Minerais que extraio
+## O que eu uso
 
 <div align="center">
 
-| Categoria | Tecnologias |
-|:---------:|:-----------:|
-| **Domínio** | ![Python](https://img.shields.io/badge/Python-8B4513?style=for-the-badge&logo=python&logoColor=white&labelColor=CD853F) ![JavaScript](https://img.shields.io/badge/JavaScript-8B4513?style=for-the-badge&logo=javascript&logoColor=white&labelColor=CD853F) ![HTML5](https://img.shields.io/badge/HTML5-8B4513?style=for-the-badge&logo=html5&logoColor=white&labelColor=CD853F) ![CSS3](https://img.shields.io/badge/CSS3-8B4513?style=for-the-badge&logo=css3&logoColor=white&labelColor=CD853F) |
-| **Escavação** | ![VS Code](https://img.shields.io/badge/VS_Code-8B4513?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=CD853F) ![PyCharm](https://img.shields.io/badge/PyCharm-8B4513?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=CD853F) ![Git](https://img.shields.io/badge/Git-8B4513?style=for-the-badge&logo=git&logoColor=white&labelColor=CD853F) |
-| **Em germinação** | ![C#](https://img.shields.io/badge/C%23-8B4513?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=CD853F) ![Java](https://img.shields.io/badge/Java-8B4513?style=for-the-badge&logo=java&logoColor=white&labelColor=CD853F) ![MySQL](https://img.shields.io/badge/MySQL-8B4513?style=for-the-badge&logo=mysql&logoColor=white&labelColor=CD853F) |
+**Linguagens**  
+![Python](https://img.shields.io/badge/Python-8B4513?style=flat-square&logo=python&logoColor=white&labelColor=CD853F)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B4513?style=flat-square&logo=javascript&logoColor=white&labelColor=CD853F)
+![HTML5](https://img.shields.io/badge/HTML5-8B4513?style=flat-square&logo=html5&logoColor=white&labelColor=CD853F)
+![CSS3](https://img.shields.io/badge/CSS3-8B4513?style=flat-square&logo=css3&logoColor=white&labelColor=CD853F)
+
+**Ferramentas**  
+![VS Code](https://img.shields.io/badge/VS_Code-8B4513?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=CD853F)
+![PyCharm](https://img.shields.io/badge/PyCharm-8B4513?style=flat-square&logo=pycharm&logoColor=white&labelColor=CD853F)
+![Git](https://img.shields.io/badge/Git-8B4513?style=flat-square&logo=git&logoColor=white&labelColor=CD853F)
+
+**Aprendendo**  
+![C#](https://img.shields.io/badge/C%23-8B4513?style=flat-square&logo=c-sharp&logoColor=white&labelColor=CD853F)
+![Java](https://img.shields.io/badge/Java-8B4513?style=flat-square&logo=java&logoColor=white&labelColor=CD853F)
+![MySQL](https://img.shields.io/badge/MySQL-8B4513?style=flat-square&logo=mysql&logoColor=white&labelColor=CD853F)
 
 </div>
 
 ---
 
-## 📊 Camadas do solo
+## GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Terra47&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&bg_color=2d2d2d&title_color=cd853f&icon_color=8b4513&text_color=ebdbb2" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terra47&layout=compact&langs_count=8&theme=gruvbox&hide_border=true&bg_color=2d2d2d&title_color=cd853f&text_color=ebdbb2" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Terra47&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&bg_color=2d2d2d&title_color=cd853f&icon_color=8b4513&text_color=ebdbb2"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terra47&layout=compact&langs_count=8&theme=gruvbox&hide_border=true&bg_color=2d2d2d&title_color=cd853f&text_color=ebdbb2"/>
 </div>
 
 <div align="center">
@@ -81,125 +71,51 @@ print(terra.apresentar())
 
 ---
 
-## 🌋 Estrutura geológica
+## O que estou fazendo
 
-<details open>
-<summary><strong>⛏️ Mina de conhecimento</strong></summary>
-<br>
+<details>
+<summary><strong>Projetos</strong></summary>
 
-```geologia
-camadas_terrestres:
-  crosta:
-    - JavaScript (sedimentar)
-    - Python (ígnea)
-    - HTML/CSS (metamórfica)
-  manto:
-    - C# (em ascensão)
-    - Java (em formação)
-    - MySQL (líquido)
-  núcleo:
-    - Lógica de programação (sólido)
-    - Resolução de problemas (fundido)
-    - Backend architecture (em aquecimento)
-```
+- **Engineering Tools Pro** – Site com calculadora científica, biblioteca de fórmulas e catálogo de pontes  
+- **Mostra Científica** – Site para evento da escola  
+- **Servidor Local** – Quero montar um servidor caseiro pra rodar meus projetos  
 
 </details>
 
 <details>
-<summary><strong>🌿 Ecossistema de projetos</strong></summary>
-<br>
+<summary><strong>O que quero aprender</strong></summary>
 
-```javascript
-const projetos = [
-  {
-    nome: "🏗️ Engineering Tools Pro",
-    descrição: "Plataforma com calculadora científica, biblioteca de fórmulas e catálogo de pontes",
-    status: "🌱 Em crescimento",
-    repo: "https://github.com/Terra47/Engineering-Tools-Pro"
-  },
-  {
-    nome: "🔬 Mostra Científica",
-    descrição: "Site interativo para evento escolar",
-    status: "🌱 Germinando"
-  },
-  {
-    nome: "🏡 Servidor Local",
-    descrição: "Infraestrutura caseira para projetos e serviços",
-    status: "🌱 Planejamento"
-  }
-];
-
-projetos.forEach(p => console.log(`${p.nome}: ${p.descrição}`));
-```
+- C#, Java, MySQL  
+- TypeScript, C++, Rust  
+- Arquitetura de backend, bancos de dados, sistemas distribuídos  
 
 </details>
 
 <details>
-<summary><strong>⛰️ Picos a conquistar</strong></summary>
-<br>
+<summary><strong>Metas</strong></summary>
 
-```markdown
-[✅] Primeiro projeto completo publicado
-[ ] Aprender C# e Java
-[ ] Dominar MySQL
-[ ] Ingressar na faculdade de Engenharia de Software
-[ ] Tornar-me desenvolvedor backend
-[ ] Construir servidor local
-[ ] Contribuir para open source
-[ ] Criar biblioteca própria
-[ ] Participar de hackathon
-[ ] Palestrar sobre tecnologia
-```
-
-</details>
-
-<details>
-<summary><strong>📜 Camadas sedimentares</strong></summary>
-<br>
-
-```yaml
-ano_2024:
-  janeiro_março:
-    - "HTML5, CSS3: primeiros passos"
-    - "JavaScript: lógica e DOM"
-  abril_junho:
-    - "Python: automação e scripts"
-    - "Git: versionamento"
-  julho_setembro:
-    - "VS Code & PyCharm: domínio das ferramentas"
-    - "Primeiros projetos pessoais"
-  outubro_dezembro:
-    - "Engineering Tools Pro: início"
-    - "Backend: primeiros conceitos"
-
-ano_2025:
-  planejado:
-    - "C# e Java: fundamentos"
-    - "MySQL: banco de dados"
-    - "Participação em mostra científica"
-    - "Conclusão do Engineering Tools Pro"
-```
+- [x] Primeiro projeto pronto  
+- [ ] Aprender C# e Java  
+- [ ] Dominar MySQL  
+- [ ] Entrar na faculdade de Engenharia de Software  
+- [ ] Trabalhar com backend  
+- [ ] Montar meu servidor local  
+- [ ] Contribuir com código aberto  
 
 </details>
 
 ---
 
-## 🕳️ Onde me encontrar
+## Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B4513?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=CD853F)](https://www.linkedin.com/in/miguelnunesagne/)
-[![Discord](https://img.shields.io/badge/Discord-8B4513?style=for-the-badge&logo=discord&logoColor=white&labelColor=CD853F)](https://discord.com/users/0.997)
-[![GitHub](https://img.shields.io/badge/GitHub-8B4513?style=for-the-badge&logo=github&logoColor=white&labelColor=CD853F)](https://github.com/Terra47)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B4513?style=flat-square&logo=linkedin&logoColor=white&labelColor=CD853F)](https://www.linkedin.com/in/miguelnunesagne/)
+[![Discord](https://img.shields.io/badge/Discord-8B4513?style=flat-square&logo=discord&logoColor=white&labelColor=CD853F)](https://discord.com/users/0.997)
+[![GitHub](https://img.shields.io/badge/GitHub-8B4513?style=flat-square&logo=github&logoColor=white&labelColor=CD853F)](https://github.com/Terra47)
 
-```yaml
-coordenadas:
-  discord: "0.997"
-  linkedin: "/in/miguelnunesagne/"
-  github: "/Terra47"
-  localização: "Brasil 🌎"
-  fuso: "UTC-3"
-```
+Discord: `0.997`  
+Brasil, UTC-3
 
 </div>
 
@@ -207,23 +123,12 @@ coordenadas:
 
 <div align="center">
   <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+  <sub>*"Não podemos resolver os problemas usando o mesmo pensamento que usamos quando os criamos."*</sub>
+  <br>
+  <sub>— Albert Einstein</sub>
   <br><br>
-  
-```c
-while (1) {
-    estudar();
-    codar();
-    jogar();
-    evoluir();
-}
-```
-
+  <sub>Sou a terra que você pisa. Firme. Em movimento.</sub>
+  <br><br>
+  <sub>⭐ Se gostou, deixa uma estrela nos repositórios</sub>
   <br>
-  <sub>🌱 "Assim como a terra, estou sempre me moldando para dar frutos melhores."</sub>
-  <br>
-  <sub>⭐ Se apreciou a paisagem, deixe uma estrela nos repositórios! ⭐</sub>
-  <br>
-  <sub>⚡ Atualmente aberto a colaborações e projetos interessantes</sub>
 </div>
-```
