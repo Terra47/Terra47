@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/idade-17-8B4513?style=for-the-badge&labelColor=CD853F" />
+  <img src="https://img.shields.io/badge/idade-18-8B4513?style=for-the-badge&labelColor=CD853F" />
   <img src="https://img.shields.io/badge/foco-Backend-8B4513?style=for-the-badge&labelColor=CD853F" />
   <img src="https://img.shields.io/badge/ensino-médio-8B4513?style=for-the-badge&labelColor=CD853F" />
   <img src="https://img.shields.io/badge/futuro-engenharia de software-8B4513?style=for-the-badge&labelColor=CD853F" />
