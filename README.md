@@ -232,7 +232,7 @@ print(f"Noite: {vida.noite}")
 | 📦 Projetos iniciados | 4 |
 | ✅ Projetos concluídos | 2 |
 | 🔄 Commits | Aumentando todo dia |
-| ☕ Música escutada | +100h |
+| 🎧 Música escutada | +100h |
 
 </div>
 
