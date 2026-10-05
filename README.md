@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0A2E,100:9B59B6&height=220&section=header&text=Terra&fontColor=FFFFFF&fontSize=80&fontAlignY=36&animation=fadeIn" width="100%" alt="Terra" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=9B59B6&center=true&vCenter=true&width=520&lines=Back-end+e+infraestrutura;Node.js+%7C+Linux+%7C+Docker;Planejar+antes+de+construir" alt="Back-end e infraestrutura" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=9B59B6&center=true&vCenter=true&width=560&lines=Back-end+e+seguran%C3%A7a+defensiva;Node.js+%7C+Linux+%7C+Docker;Construir+para+n%C3%A3o+ter+falha" alt="Back-end e segurança defensiva" />
 
 <br />
 
@@ -22,9 +22,9 @@
 
 Meu nome é **Miguel Nunes Agne**, mas todo mundo me chama de **Terra**.
 
-Programo desde 2024 e gosto mais de planejar e estruturar sistemas do que de cuidar da parte visual.
+Programo desde 2024 e gosto de desenhar como um sistema vai funcionar antes de construir.
 
-Meu foco é back-end, com caminho traçado para infraestrutura e DevOps.
+Meu foco é back-end e infraestrutura, com direção para segurança defensiva: construir e proteger sistemas para que a falha não exista.
 
 </td>
 <td width="45%" valign="top">
@@ -34,10 +34,10 @@ $ whoami
 terra
 
 $ cat foco.txt
-back-end, infraestrutura, devops
+back-end, infraestrutura, segurança defensiva
 
 $ cat metodo.txt
-planejar, construir, revisar
+planejar, construir, proteger
 
 $ uptime
 programando desde 2024
@@ -69,11 +69,12 @@ programando desde 2024
 
 | Etapa | Assunto | Status |
 | :-: | :-- | :-: |
-| 01 | Linux e redes | ![Em andamento](https://img.shields.io/badge/em_andamento-9B59B6?style=flat-square) |
-| 02 | Docker | ![Em andamento](https://img.shields.io/badge/em_andamento-9B59B6?style=flat-square) |
-| 03 | CI/CD com GitHub Actions | ![Na fila](https://img.shields.io/badge/na_fila-1A0A2E?style=flat-square) |
-| 04 | AWS | ![Na fila](https://img.shields.io/badge/na_fila-1A0A2E?style=flat-square) |
-| 05 | Terraform | ![Na fila](https://img.shields.io/badge/na_fila-1A0A2E?style=flat-square) |
+| 01 | Linux e hardening de servidores | ![Em andamento](https://img.shields.io/badge/em_andamento-9B59B6?style=flat-square) |
+| 02 | Redes, DNS e TLS | ![Na fila](https://img.shields.io/badge/na_fila-1A0A2E?style=flat-square) |
+| 03 | Docker | ![Na fila](https://img.shields.io/badge/na_fila-1A0A2E?style=flat-square) |
+| 04 | CI/CD com verificação de segurança | ![Na fila](https://img.shields.io/badge/na_fila-1A0A2E?style=flat-square) |
+| 05 | Segurança de aplicações (OWASP Top 10) | ![Na fila](https://img.shields.io/badge/na_fila-1A0A2E?style=flat-square) |
+| 06 | AWS e controle de acesso (IAM) | ![Na fila](https://img.shields.io/badge/na_fila-1A0A2E?style=flat-square) |
 
 </div>
 
