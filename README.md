@@ -101,10 +101,6 @@ Em reorganização. Os repositórios novos aparecem aqui conforme forem publicad
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Terra47&bg_color=1A0A2E&color=9B59B6&line=9B59B6&point=E6E6E6&area=true&area_color=9B59B6&hide_border=true&radius=8" width="100%" alt="Gráfico de contribuições" />
-
-<br /><br />
-
 *Assim como a terra, sempre me moldando para dar frutos melhores.*
 
 </div>
