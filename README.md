@@ -8,37 +8,78 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A0A2E?style=for-the-badge&logo=linkedin&logoColor=9B59B6)](https://www.linkedin.com/in/miguelnunesagne/)
 ![Discord](https://img.shields.io/badge/Discord-0.997____-1A0A2E?style=for-the-badge&logo=discord&logoColor=9B59B6)
-![Brasil](https://img.shields.io/badge/Porto_Alegre-Brasil-1A0A2E?style=for-the-badge&logoColor=9B59B6)
+![Local](https://img.shields.io/badge/Porto_Alegre-Brasil-1A0A2E?style=for-the-badge)
 
 </div>
 
 <br />
 
-## Sobre
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A0A2E,100:9B59B6&height=50&text=Sobre&fontColor=FFFFFF&fontSize=22" width="100%" alt="Sobre" />
 
-Meu nome é Miguel Nunes Agne, mas todo mundo me chama de Terra. Programo desde 2024 e gosto mais de planejar e estruturar sistemas do que de cuidar da parte visual. Meu foco é back-end, com caminho traçado para infraestrutura e DevOps.
+<table>
+<tr>
+<td width="55%" valign="top">
+
+Meu nome é **Miguel Nunes Agne**, mas todo mundo me chama de **Terra**.
+
+Programo desde 2024 e gosto mais de planejar e estruturar sistemas do que de cuidar da parte visual.
+
+Meu foco é back-end, com caminho traçado para infraestrutura e DevOps.
+
+</td>
+<td width="45%" valign="top">
+
+```bash
+$ whoami
+terra
+
+$ cat foco.txt
+back-end, infraestrutura, devops
+
+$ cat metodo.txt
+planejar, construir, revisar
+
+$ uptime
+programando desde 2024
+```
+
+</td>
+</tr>
+</table>
 
 <br />
 
-## Tecnologias
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A0A2E,100:9B59B6&height=50&text=Tecnologias&fontColor=FFFFFF&fontSize=22" width="100%" alt="Tecnologias" />
 
 <div align="center">
 
-**No dia a dia**
-
-<img src="https://skillicons.dev/icons?i=nodejs,js,discordjs,html,css,git,github,vscode&theme=dark" alt="Tecnologias que uso" />
-
-<br /><br />
-
-**Estudando**
-
-<img src="https://skillicons.dev/icons?i=linux,docker,githubactions&theme=dark" alt="Tecnologias que estudo" />
+| Categoria | Tecnologias |
+| :-- | :-- |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,js,discordjs&theme=dark" height="40" alt="Node.js, JavaScript, discord.js" /> |
+| **Web** | <img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="40" alt="HTML, CSS" /> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="40" alt="Git, GitHub, VS Code" /> |
 
 </div>
 
 <br />
 
-## Projetos
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A0A2E,100:9B59B6&height=50&text=Trilha&fontColor=FFFFFF&fontSize=22" width="100%" alt="Trilha" />
+
+<div align="center">
+
+| Etapa | Assunto | Status |
+| :-: | :-- | :-: |
+| 01 | Linux e redes | ![Em andamento](https://img.shields.io/badge/em_andamento-9B59B6?style=flat-square) |
+| 02 | Docker | ![Em andamento](https://img.shields.io/badge/em_andamento-9B59B6?style=flat-square) |
+| 03 | CI/CD com GitHub Actions | ![Na fila](https://img.shields.io/badge/na_fila-1A0A2E?style=flat-square) |
+| 04 | AWS | ![Na fila](https://img.shields.io/badge/na_fila-1A0A2E?style=flat-square) |
+| 05 | Terraform | ![Na fila](https://img.shields.io/badge/na_fila-1A0A2E?style=flat-square) |
+
+</div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A0A2E,100:9B59B6&height=50&text=Projetos&fontColor=FFFFFF&fontSize=22" width="100%" alt="Projetos" />
 
 <div align="center">
 
@@ -48,9 +89,24 @@ Em reorganização. Os repositórios novos aparecem aqui conforme forem publicad
 
 <br />
 
-## Atividade
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A0A2E,100:9B59B6&height=50&text=Atividade&fontColor=FFFFFF&fontSize=22" width="100%" alt="Atividade" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Terra47&show_icons=true&hide_border=true&count_private=true&bg_color=1A0A2E&title_color=9B59B6&icon_color=9B59B6&text_color=E6E6E6" height="170" alt="Estatísticas do GitHub" />
-<img src="https://streak-stats.demolab.com?user=Terra47&hide_border=true&background=1A0A2E&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6&currStreakNum=E6E6E6&sideNums=E6E6E6&sideLabels=E6E6E6&dates=8B8B8B" height="170" alt="Sequência de
+<img src="https://github-readme-stats.vercel.app/api?username=Terra47&show_icons=true&include_all_commits=true&show=prs_merged,reviews&rank_icon=github&locale=pt-br&hide_border=true&bg_color=1A0A2E&title_color=9B59B6&icon_color=9B59B6&text_color=E6E6E6&ring_color=9B59B6" width="60%" alt="Estatísticas do GitHub" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=Terra47&locale=pt_BR&hide_border=true&background=1A0A2E&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6&currStreakNum=E6E6E6&sideNums=E6E6E6&sideLabels=E6E6E6&dates=8B8B8B" width="60%" alt="Sequência de contribuições" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Terra47&bg_color=1A0A2E&color=9B59B6&line=9B59B6&point=E6E6E6&area=true&area_color=9B59B6&hide_border=true&radius=8" width="100%" alt="Gráfico de contribuições" />
+
+<br /><br />
+
+*Assim como a terra, sempre me moldando para dar frutos melhores.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,100:1A0A2E&height=120&section=footer" width="100%" alt="" />
