@@ -102,8 +102,6 @@ Em reorganização. Os repositórios novos aparecem aqui conforme forem publicad
 
 <br /><br />
 
-*Assim como a terra, sempre me moldando para dar frutos melhores.*
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,100:1A0A2E&height=120&section=footer" width="100%" alt="" />
